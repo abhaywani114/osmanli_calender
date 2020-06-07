@@ -1,6 +1,14 @@
 # Osmanli Calendar
 
-Osmanli Calendar is a jQuery plug-in for generating professional date pickers and calender. it is easy to use
+Osmanli Calendar is a jQuery plug-in for generating professional date pickers and calender. it is easy to use.
+
+## Installation
+
+Use [npm](https://www.npmjs.com/package/osmanli-calender) to install Osmanli Calendar.
+
+```bash
+npm i osmanli-calender
+```
 
 ## Example
 Html Code:
