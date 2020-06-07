@@ -1,0 +1,25 @@
+{
+  "name": "osmanliCalender",
+  "title": "jQuery Calender",
+  "description": "A small easy-to-use plugin for creating calendars",
+  "keywords": [
+    "jquery-plugins",
+    "calender",
+    "UI",
+    "easytouse"
+  ],
+  "version": "1.0",
+  "author": {
+    "name": "Abrar Ajaz Wani",
+    "url": "https://github.com/abhaywani114"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.4"
+  }
+}
